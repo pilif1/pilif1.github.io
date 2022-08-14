@@ -1,0 +1,74 @@
+#classic{width:50%;
+    float:left;
+    color: #6e65ac;
+text-align: center;}
+
+#intro{font-size: 25px;
+    color: #6e65ac;
+    text-align: center;}
+
+    #tekst{font-size: 15px;
+        text-align: center;
+            color: gray}
+
+#nad{display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin:auto;
+max-width: 1150px;}
+
+    #jeden{max-width:270px;  
+    }
+
+    #dwa{max-width:270px;
+    }
+        
+    #trzy{max-width:270px;
+    }
+
+    #cztery{max-width:270px;
+    }
+
+    #piec{max-width:270px;  
+    }
+
+    #szesc{max-width:270px;
+    }
+        
+    #siedem{max-width:270px;
+    }
+
+    #osiem{max-width:270px;
+    }
+
+    #dziewiec{max-width:270px;  
+    }
+
+    #dziesiec{max-width:270px;
+    }
+        
+    #jedenascie{max-width:270px;
+    }
+
+    #dwanascie{max-width:270px;
+    }
+
+
+    #menu{width:50%;
+        float:left
+    }
+    
+    ul {list-style-type: none;
+        font-size: 15px;}
+        
+        a{text-decoration: none;
+        color:black;
+        padding: 12px;
+        margin: 0px 5px;}
+        
+        a:hover{background-color: #6e65ac;
+        color:white;
+        border-radius: 5px;
+        padding:12px;
+        }
+    
+    li{display:inline;}
