@@ -81,6 +81,22 @@ max-width: 1150px;}
         font-size: 12px;
     }
 
+
     #linia{
-        margin:auto;
-    max-width: 1150px;}
+        width:100%;
+        border-top:1px solid grey;
+        position:relative;
+        margin:0;
+      }
+      span{
+        font-size: 150%;
+       position:absolute;
+        background-color:white;
+        width:70px;
+        text-align:center;
+        top:-10%;
+        left:50%;
+        transform:translate(-50%,-50%);
+        z-index:999;
+        overflow:visible;
+      }
